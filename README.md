@@ -38,7 +38,7 @@ Here are some technologies and tools I frequently use or am currently exploring:
 
 I'm always learning and expanding my skillset. Right now, I'm particularly interested in:
 
-* *Kernel exploitation, cloud security, WebAssembly security, Webhacking, Anti-Fraud-Systems and RE*
+* *Kernel exploitation, cloud security, WebAssembly security, Webhacking, Anti-Fraud-Systems, always RE and AI*
 
 <!--
 **pierelucas/pierelucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
